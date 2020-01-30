@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSC8001-part2-coursework1/CSC8001-part2-coursework1.iml" filepath="$PROJECT_DIR$/CSC8001-part2-coursework1/CSC8001-part2-coursework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC8001-part2-coursework2/CSC8001-part2-coursework2.iml" filepath="$PROJECT_DIR$/CSC8001-part2-coursework2/CSC8001-part2-coursework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC8001_coursework_pt1_2019/CSC8001_coursework_pt1_2019.iml" filepath="$PROJECT_DIR$/CSC8001_coursework_pt1_2019/CSC8001_coursework_pt1_2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_for_fun/Java_for_fun.iml" filepath="$PROJECT_DIR$/Java_for_fun/Java_for_fun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning_Code/Learning_Code.iml" filepath="$PROJECT_DIR$/Learning_Code/Learning_Code.iml" />
+    </modules>
+  </component>
+</project>
